@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"titulo": "Porducto Prueba 50",
+		"descripcion": "Esto es un producto prueba",
+		"precio": 300,
+		"rutaDeImagen": "sin ruta",
+		"codigo": "Codigo1234567",
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"titulo": "pantalon",
+		"descripcion": "Esto es un producto prueba",
+		"precio": 200,
+		"rutaDeImagen": "sin ruta",
+		"codigo": "Codigo12345",
+		"stock": 50
+	},
+	{
+		"id": 3,
+		"titulo": "franela",
+		"descripcion": "Esto es un producto prueba",
+		"precio": 200,
+		"rutaDeImagen": "sin ruta",
+		"codigo": "Codigo123456",
+		"stock": 50
+	},
+	{
+		"id": 4,
+		"titulo": "remera",
+		"descripcion": "Esto es un producto prueba",
+		"precio": 300,
+		"rutaDeImagen": "sin ruta",
+		"codigo": "Codigo12345678",
+		"stock": 50
+	},
+	{
+		"id": 5,
+		"titulo": "pantys",
+		"descripcion": "Esto es un producto prueba",
+		"precio": 300,
+		"rutaDeImagen": "sin ruta",
+		"codigo": "Codigo123456789",
+		"stock": 50
+	}
+]
